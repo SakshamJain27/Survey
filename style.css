@@ -1,0 +1,18 @@
+form {
+    background-color: #fff;
+    max-width: 500px;
+    margin: 50px auto;
+    padding: 30px 20px;
+    box-shadow: 2px 5px 10px rgba(0, 0, 0, 0.5);
+}
+
+body {
+    background-color: #28282B;
+}
+
+form button {
+    background-color: #28282B;
+    color: #fff;
+    padding: 10px 190px;
+    font-family: 'Courier New', Courier, monospace;
+}
